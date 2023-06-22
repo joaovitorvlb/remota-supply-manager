@@ -1,0 +1,11 @@
+Atualizado GND de #PWR026 para #PWR022.
+Atualizado GND de #PWR022 para #PWR023.
+Atualizado GND de #PWR023 para #PWR024.
+Atualizado GND de #PWR024 para #PWR025.
+Atualizado GND de #PWR025 para #PWR026.
+Atualizado 100nF de C11 para C7.
+Atualizado 100nF de C7 para C8.
+Atualizado 100nF de C8 para C9.
+Atualizado 100nF de C9 para C10.
+Atualizado 10uF de C10 para C11.
+Anotação concluída.
